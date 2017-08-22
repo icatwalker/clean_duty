@@ -51,7 +51,7 @@ Mxjfn//类库
 
 
 
-    .addFunction("aaa", function () {//标准格式， 用的时候复制一份
+    .addFunction("a1aa", function () {//标准格式， 用的时候复制一份
         return this;
     });
 
